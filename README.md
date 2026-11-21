@@ -1,5 +1,8 @@
 # Pedidão
 
+🔗 **[Acesse Pedidao](https://jpmenezesdev.github.io/Pedidao)**
+
+
 Sistema de pedidos de uma lanchonete, implementado até o Sábado 5 dos materiais do Prof. Cleyton.
 O projeto de configurações se chama `setup` neste repositório; corresponde à pasta `pedidao` dos slides.
 
