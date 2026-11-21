@@ -1,7 +1,5 @@
 # Pedidão
-https://lucasleitedosreis.github.io/portfolio/
 
-🔗 **[Acesse Pedidao](https://jpmenezesdev.github.io/Pedidao/)**
 
 
 Sistema de pedidos de uma lanchonete, implementado até o Sábado 5 dos materiais do Prof. Cleyton.
